@@ -1,3 +1,5 @@
+Contributor:[Mateen Tamboli] - [SCFU225043]
+Function implemented and tested by: [Mateen Tamboli] 
 /*
  * add_product.c
  * Contains the addProduct() function
