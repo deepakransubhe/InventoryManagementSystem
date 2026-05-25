@@ -1,3 +1,8 @@
+
+/* Contributor: [Shanawaz Shaikh] - [SCFU225037] */
+/* Function implemented and tested by: [Shanawaz Shaikh]  */
+
+
 /*
  * update_product.c
  * Contains the updateProduct() function
