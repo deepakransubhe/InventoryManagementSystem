@@ -1,3 +1,6 @@
+/* Contributor: [Rihan Choudhary] - [SCFU225041] */
+/* Function implemented and tested by: [Rihan Choudhary]  */
+
 /*
  * display_product.c
  * Contains the displayProducts() function
